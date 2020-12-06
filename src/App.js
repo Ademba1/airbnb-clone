@@ -4,10 +4,9 @@ import Header from "./Header";
 function App() {
   return (
     <div className="app">
-      {/* Home Page*/}
       <Header />
+      {/* Home Page*/}
       <Home />
-      {/* Header */}
       {/* Banner */}
       {/* Search */}
       {/* Cards */}

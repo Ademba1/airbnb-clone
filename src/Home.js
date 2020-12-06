@@ -1,10 +1,11 @@
 import React from "react";
 import "./App";
+import Banner from "./Banner";
 
 export default function Home(props) {
   return (
     <div className="home">
-      <h2>Home component</h2>
+      <Banner />
     </div>
   );
 }
